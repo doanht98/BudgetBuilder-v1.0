@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Budget Builder v1.0!
 
 You can use the [editor on GitHub](https://github.com/Budget-Builder/BudgetBuilder-v1.0/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
