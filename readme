@@ -1,0 +1,6 @@
+All files inside the BudgetBuilder folder can be found live at https://budget-builder.github.io/BudgetBuilder-v1.0/BudgetBuilder/
+
+The other folder/files are no longer relevant to the project, I have updated the new Budget Builder folder to contain all HTML and CSS assets relevant to the site. 
+
+The index.html file is the only file displayed on the link, the other html files hold assets that came with the template, we can use assets from elements.html and generic.html
+in our index page if it seems to fit. As of right now those pages are never linked in index.
